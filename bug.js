@@ -1,0 +1,1 @@
+In Next.js 15, an uncommon error arises when using server components with the `async/await` syntax within a `useEffect` hook in a client component.  This might lead to unexpected behavior such as rendering issues or infinite loading loops.
